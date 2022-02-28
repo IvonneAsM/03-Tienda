@@ -1,0 +1,52 @@
+.titulo{
+
+        font: bold;
+        font-size: 50px;
+        color: purple;
+        text-align: center;
+    }
+.producto{
+        color: rgb(70, 1, 70);
+        font-style: italic;
+        font-size: 30px;
+        text-align: center;
+    }
+.descripcion{
+    color: grey;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+}
+.dulces{
+    justify-content: center;
+}
+
+
+
+.escenario{
+    justify-content: center;
+}
+
+.contenido{
+        color: #7b1fa2;
+         font: 30px;
+         text-align: center;
+        }
+
+.codigo{
+    color: grey;
+    font: 30px;
+    text-align: center;
+}
+.lista{
+    color: grey;
+    font-style: italic;
+}
+.Titulo1{
+    color: #7b1fa2;
+    font-size: 50px;
+    text-align: center;
+}
+.colorbase{
+    background: #ce93d8;
+}
